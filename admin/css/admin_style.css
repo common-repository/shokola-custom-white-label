@@ -1,0 +1,35 @@
+.scwl-wrap {
+
+}
+
+.scwl-wrap .image-preview {
+    max-width: 150px;
+}
+
+.scwl-wrap .image-preview img {
+    max-width: 100%;
+    height: auto;
+}
+
+li#wp-admin-bar-wp-logo {
+    display: none;
+}
+
+fieldset.fieldset_shokola_background_position {
+    width: 30em;
+}
+
+label.label_shokola_background_position {
+    display: inline-block;
+    width: 30%;
+}
+
+.scwl-wrap .button-preview-login-toggle {
+    position: fixed;
+    right: 15px;
+}
+
+.scwl-preview-container {
+    display: none;
+    background-color: white;
+}

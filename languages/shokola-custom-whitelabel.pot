@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-27 15:18+0100\n"
+"PO-Revision-Date: 2016-10-03 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shokola-custom-whitelabel.php:138
+msgid "Settings"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:150
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: shokola-custom-whitelabel.php:158
+msgid "Adjust the custom settings of the login page / recovery password page."
+msgstr ""
+
+#: shokola-custom-whitelabel.php:211
+msgid "Remove image"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:212
+msgid "Remove"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:220
+msgid "Image preview"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:246
+msgid "Logo - image"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:248 shokola-custom-whitelabel.php:264
+#: shokola-custom-whitelabel.php:318
+msgid "Click here to choose an image..."
+msgstr ""
+
+#: shokola-custom-whitelabel.php:249 shokola-custom-whitelabel.php:265
+#: shokola-custom-whitelabel.php:319
+msgid "Select or upload an image in the Media. Recommended size :"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:254
+msgid "Logo - link"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:256
+msgid "Logo link"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:262
+msgid "Background - image"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:271
+msgid "Background - position"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:273
+msgid "left top"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:274
+msgid "center top"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:275
+msgid "right top"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:276
+msgid "left center"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:277
+msgid "center center"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:278
+msgid "right center"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:279
+msgid "left bottom"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:280
+msgid "center bottom"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:281
+msgid "right bottom"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:284
+msgid "Choose background position"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:291
+msgid "The background-image will not be repeated"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:292
+msgid "The background image will be repeated both vertically and horizontally"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:293
+msgid "The background image will be repeated only horizontally"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:294
+msgid "The background image will be repeated only vertically"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:296
+msgid "Fond - repeat"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:298
+msgid "Choose background repetition"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:305
+msgid "No"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:306
+msgid "Yes"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:308
+msgid "Background - cover"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:310
+msgid "Set background dimension as cover type"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:316
+msgid "Favicon"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:326
+msgid "Light"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:327
+msgid "Dark"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:329
+msgid "Theme - ambiance"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:331
+msgid "Light or dark theme"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:337
+msgid "Theme - details"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:339
+msgid "Borders and buttons color"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:345
+msgid "Theme - logo background"
+msgstr ""
+
+#: shokola-custom-whitelabel.php:347
+msgid "Background color of the logo"
+msgstr ""
